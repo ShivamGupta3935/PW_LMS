@@ -1,0 +1,21 @@
+# Node.js core
+node_modules/
+.env
+dist/
+build/
+coverage/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.nt
